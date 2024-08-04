@@ -11,3 +11,22 @@
  1007  cd kadai_005
  1008  git init
  1009  touch kadai_005.txt
+ 1011  git add .
+ 1012  git commit -m "1回目のコミット"
+
+
+ 再提出
+ 下記git_challenge変更履歴の表示
+
+ commit ac520afbc1fbb6d0c1405f73f53df12f3cee792a (HEAD -> master)
+Author: kawashimakouhei <kk.1989.0722@gmail.com>
+Date:   Sun Aug 4 11:16:12 2024 +0900
+
+    2回目のコミット
+
+commit 121b538b549f4059fbc757fd0a04fa29a75c89e1
+Author: kawashimakouhei <kk.1989.0722@gmail.com>
+Date:   Sun Aug 4 11:14:39 2024 +0900
+
+    1回目のコミット
+
