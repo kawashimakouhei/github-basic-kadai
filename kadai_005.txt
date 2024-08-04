@@ -1,0 +1,13 @@
+  995  mkdir git_challenge
+  996  cd git_challenge
+  997  git init
+  998  touch hello_world.txt
+ 1000  git add .
+ 1001  git commit -m  "1回目のコミット"
+ 1002  git add .
+ 1003  git commit -m "2回目のコミット"
+ 1005  cd
+ 1006  mkdir kadai_005
+ 1007  cd kadai_005
+ 1008  git init
+ 1009  touch kadai_005.txt
